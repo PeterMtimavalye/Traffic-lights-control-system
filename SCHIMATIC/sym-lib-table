@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 7SEG)(type Legacy)(uri "C:/Users/ROBOTECH LABS/Desktop/7SEG.lib")(options "")(descr ""))
+  (lib (name "7SEG COMPONET ")(type Legacy)(uri "C:/Users/ROBOTECH LABS/Desktop/7SEG COMPONET .lib")(options "")(descr ""))
+)
